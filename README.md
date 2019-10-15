@@ -2,10 +2,9 @@
 
 > Full-stack JavaScript developer accustomed to addressing the needs of others while meeting deadlines with a quality touch
 
-Today I will learn.
-- Markdown
-- Growth Mindset
-- Sandbox Learning
+## Table of Contents
+- [Markdown](markdown.md)
+- [Growth Mindset](growth-mindset.md)
+- [Cheat Sheet](cheatsheet.md)
 
-definition of growth mindset:
-> growth midset is great!
+
